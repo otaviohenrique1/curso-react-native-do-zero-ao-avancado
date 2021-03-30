@@ -1,0 +1,15 @@
+var a;
+a = 10;
+var b = 5;
+console.log(a);
+console.log(b);
+var nome = 'Matheus';
+console.log(nome);
+a = 5;
+b = 2;
+console.log(a + b);
+nome = 'Matheus';
+nome = "Matheus";
+var temporaria;
+var sobrenome;
+temporaria = nome + " " + sobrenome;
